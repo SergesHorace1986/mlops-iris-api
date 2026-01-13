@@ -7,7 +7,8 @@ run-api:
 stop-api:
     docker stop iris-api
 
-links:
-	@echo "Prometheus: http://localhost:9090"
-	@echo "Grafana: http://localhost:3000"
+# links:
+#	@echo "Prometheus: http://localhost:9090"
+#	@echo "Grafana: http://localhost:3000"
+
 
